@@ -47,12 +47,3 @@ export const createHeader = (parent) => {
   return { headerLogoLink, headerBtn, updateHeaderTitle };
 };
 
-// <header class="header">
-//     <div class="container header__container">
-//       <a class="header__logo-link" href="#">
-//         <img class="header__logo" src="img/logo.svg" alt="Логотип сервиса Brain Cards">
-//       </a>
-//       <h2 class="header__subtitle">Категории</h2>
-//       <button class="header__btn">Добавить категорию</button>
-//     </div>
-//   </header>
